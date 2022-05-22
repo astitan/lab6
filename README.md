@@ -1,6 +1,6 @@
 # lab6
 
-datas from lab5
+Кирилл Попов ИСТбд-11
 
 3 graphics using matplotlib и 1 graphic using seaborn 
 
